@@ -19,8 +19,15 @@ public class StreamTaskTest {
                 {
                         new int[]{13, -2, 33, -4, 5},
                         20
+                },
+                {
+                        new int[]{6, 3, 11, 25, 10},
+                        136
+                },
+                {
+                        new int[]{11, -4, 31, -6, 3},
+                        52
                 }
-                // TODO add 2 more test data here
         };
     }
 
@@ -38,8 +45,15 @@ public class StreamTaskTest {
                 {
                         new int[]{130, -200, 330, -40, 50, 66},
                         new int[]{}
+                },
+                {
+                        new int[]{18, 34, 25, 13, 31, 24},
+                        new int[]{13, 25, 31}
+                },
+                {
+                        new int[]{},
+                        new int[]{}
                 }
-                // TODO add 2 more test data here
         };
     }
 
